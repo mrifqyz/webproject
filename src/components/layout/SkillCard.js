@@ -5,7 +5,7 @@ const SkillCard = (props) => {
     return (
     	<div className="flex-col-center mr-3">
     		<div className="skill-cardbox">
-    			<img src={image} style={{maxHeight:"175px", width:"auto"}}/>
+    			<img src={image} style={{height:"auto", width:"120px"}}/>
     		</div>
     		<p style={{paddingTop: 1 + "rem", paddingBottom:2+"rem" }}>
     			{percentage} %
