@@ -11,8 +11,8 @@
     "iconify": "^1.2.0",
     "jquery": "^3.4.1",
     "popper.js": "^1.16.1",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.3.0"
   },
@@ -43,5 +43,17 @@
     "@iconify/icons-ic": "^1.0.8",
     "@iconify/icons-topcoat": "^1.0.3",
     "@iconify/react": "^1.1.1"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrifqyz/webproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrifqyz/webproject/issues"
+  },
+  "homepage": "https://github.com/mrifqyz/webproject#readme"
 }
